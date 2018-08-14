@@ -1,0 +1,19 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.87346,41.21137]},"properties":{"ID":1,"Name":"Dingmans Campground","longitude":-74.87346,"latitude":41.21137,"permit":"Y","num_of_sit":133,"per_per_si":40}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.96554,41.11574]},"properties":{"ID":2,"Name":"Valley View Group Campsite","longitude":-74.96554,"latitude":41.11574,"permit":"Y","num_of_sit":5,"per_per_si":0}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.96574,41.09681]},"properties":{"ID":3,"Name":"Rivers Bend Group Campsite","longitude":-74.96574,"latitude":41.09681,"permit":"Y","num_of_sit":0,"per_per_si":0}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.76152,41.334419]},"properties":{"ID":4,"Name":"Mashipacong Island","longitude":-74.76152,"latitude":41.334419,"permit":"N","num_of_sit":1,"per_per_si":4}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.843964,41.264988]},"properties":{"ID":5,"Name":"Namanock Island","longitude":-74.843964,"latitude":41.264988,"permit":"N","num_of_sit":4,"per_per_si":6}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.855515,41.24888]},"properties":{"ID":6,"Name":"Sandyston","longitude":-74.855515,"latitude":41.24888,"permit":"N","num_of_sit":6,"per_per_si":6}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.880993,41.185276]},"properties":{"ID":7,"Name":"Dingmans Shallows","longitude":-74.880993,"latitude":41.185276,"permit":"N","num_of_sit":1,"per_per_si":4}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.885157,41.178972]},"properties":{"ID":8,"Name":"Hornbecks","longitude":-74.885157,"latitude":41.178972,"permit":"N","num_of_sit":3,"per_per_si":4}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.90862,41.153859]},"properties":{"ID":9,"Name":"Jerry Lees","longitude":-74.90862,"latitude":41.153859,"permit":"N","num_of_sit":2,"per_per_si":8}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.911284,41.151045]},"properties":{"ID":10,"Name":"Mill Creek","longitude":-74.911284,"latitude":41.151045,"permit":"N","num_of_sit":1,"per_per_si":8}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.973252,41.112459]},"properties":{"ID":11,"Name":"Ratcliffs","longitude":-74.973252,"latitude":41.112459,"permit":"N","num_of_sit":3,"per_per_si":6}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.993005,41.092099]},"properties":{"ID":12,"Name":"Bushkill Creek","longitude":-74.993005,"latitude":41.092099,"permit":"N","num_of_sit":1,"per_per_si":6}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.989833,41.093485]},"properties":{"ID":13,"Name":"Peters","longitude":-74.989833,"latitude":41.093485,"permit":"N","num_of_sit":12,"per_per_si":6}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.967613,41.096138]},"properties":{"ID":14,"Name":"Quinns","longitude":-74.967613,"latitude":41.096138,"permit":"N","num_of_sit":7,"per_per_si":6}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.96757,41.093276]},"properties":{"ID":15,"Name":"Freeman Point","longitude":-74.96757,"latitude":41.093276,"permit":"N","num_of_sit":2,"per_per_si":6}}
+]}
+
+

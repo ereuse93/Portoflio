@@ -1,0 +1,134 @@
+﻿FIPS,FID,DivisionName,Grade_1,Grade_2,Grade_3,Grade_4,Grade_5,Grade_6,Grade_7,Grade_8,Grade_9,Grade_10,Grade_11,Grade_12
+FF0,0,Montgomery,736,774,701,759,800,696,744,682,796,689,753,752
+FF1,1,Russell ,271,273,282,308,274,261,300,255,291,304,267,270
+FF2,2,Henry,527,521,586,564,558,543,552,536,615,585,504,528
+FF3,3,King and Queen,50,215,47,54,67,46,53,52,45,47,36,30
+FF4,4,Floyd,133,148,129,135,165,143,158,174,159,158,160,189
+FF5,5,MiddlesexRappahannock,87,76,102,84,94,96,111,92,116,89,88,102
+FF6,6,Rappahannock County Public Schools,67,60,54,65,62,68,54,72,67,66,73,81
+FF7,7,Amherst County Public Schools,266,298,290,333,334,329,307,277,299,299,274,311
+FF8,8,Covington City Public Schools,82,77,71,92,77,67,67,66,77,73,84,65
+FF9,9,Essex County Public Schools,91,110,107,103,98,101,111,104,116,108,98,123
+FF10,10,Buchanan County Public Schools,192,199,204,207,187,224,206,225,237,225,223,214
+FF11,11,Alleghany County Public Schools,128,132,153,134,145,163,187,162,180,174,180,195
+FF12,12,Northumberland County Public Schools,90,78,89,93,87,86,101,98,115,100,122,94
+FF13,13,Craig County Public Schools,32,40,39,45,55,37,39,45,52,60,55,65
+FF14,14,Buckingham County Public Schools,155,159,170,172,176,148,148,133,160,156,128,121
+FF15,15,Gloucester County Public Schools,362,369,414,410,400,367,387,474,450,467,379,466
+FF16,16,Powhatan County Public Schools,315,295,291,317,312,337,337,335,380,350,364,346
+FF17,17,Greene County Public Schools,199,224,249,245,244,243,253,248,253,235,235,219
+FF18,18,Patrick County Public Schools,368,176,150,181,170,186,181,174,200,156,189,182
+FF19,19,King William County Public Schools,141,166,140,189,176,158,193,165,201,192,161,152
+FF20,20,Lunenburg County Public Schools,111,96,127,117,107,138,130,114,129,92,103,84
+FF21,21,Charlotte County Public Schools,154,129,143,140,120,145,152,155,140,124,119,148
+FF22,22,Henrico County Public Schools,"3,689","3,721","3,805","3,913","3,940","4,099","3,924","3,956","4,232","3,929","3,837","3,836"
+FF23,23,Franklin County Public Schools,503,533,586,557,550,544,533,534,564,539,537,480
+FF24,24,Grayson County Public Schools,125,113,103,114,130,119,120,95,132,129,120,121
+FF25,25,Pittsylvania County Public Schools,625,570,659,697,649,716,685,705,776,754,629,684
+FF26,26,Carroll County Public Schools,247,266,292,285,286,284,315,274,294,290,264,274
+FF27,27,Cumberland County Public Schools,82,88,92,93,108,102,102,83,108,111,104,95
+FF28,28,Augusta County Public Schools,684,705,746,739,839,795,811,817,869,792,781,776
+FF29,29,Hopewell City Public Schools,332,334,305,347,339,322,283,302,318,307,246,253
+FF30,30,Shenandoah County Public Schools,419,419,428,484,476,437,427,468,521,492,454,445
+FF31,31,Accomack County Public Schools,400,371,395,432,370,385,404,382,419,399,397,333
+FF32,32,Dinwiddie County Public Schools,313,323,338,333,330,349,302,353,351,343,291,315
+FF33,33,Amelia County Public Schools,118,153,137,143,136,132,125,127,147,140,127,133
+FF34,34,Botetourt County Public Schools,296,302,331,304,333,364,366,380,406,431,384,379
+FF35,35,Westmoreland County Public Schools,112,114,107,126,141,120,101,129,124,113,114,105
+FF36,36,Nelson County Public Schools,115,118,133,132,149,141,134,158,171,153,153,159
+FF37,37,Nottoway County Public Schools,157,138,162,139,172,157,149,155,181,153,135,123
+FF38,38,Martinsville City Public Schools,139,144,160,147,162,158,137,132,166,129,136,149
+FF39,39,Appomattox County Public Schools,156,164,176,178,176,156,150,177,174,159,186,181
+FF40,40,Fluvanna County Public Schools,235,218,252,280,271,292,298,322,311,289,256,266
+FF41,41,Mathews County Public Schools,67,71,74,80,86,66,84,82,85,114,95,101
+FF42,42,King George County Public Schools,336,291,336,373,369,350,349,384,345,337,296,322
+FF43,43,Prince Edward County Public Schools,147,147,146,163,138,147,154,154,185,166,138,141
+FF44,44,Galax City Public Schools,98,99,121,95,99,79,89,93,77,105,98,84
+FF45,45,Bland County Public Schools,45,45,46,52,58,46,69,58,73,52,69,62
+FF46,46,York County Public Schools,950,884,909,998,950,972,"1,005",996,"1,061","1,039",977,"1,025"
+FF47,47,Culpeper County Public Schools,563,609,610,650,667,666,570,633,635,642,589,628
+FF48,48,Northampton County Public Schools,155,123,114,118,113,130,117,137,126,124,95,113
+FF49,49,Spotsylvania County Public Schools,"1,651","1,646","1,642","1,850","1,827","1,785","1,883","1,863","2,032","1,907","1,834","1,861"
+FF50,50,Chesterfield County Public Schools,"4,313","4,346","4,592","4,563","4,642","4,772","4,806","4,745","4,957","4,924","4,744","4,672"
+FF51,51,Caroline County Public Schools,354,333,338,331,329,318,312,316,313,294,286,277
+FF52,52,Colonial Heights City Public Schools,203,220,226,219,198,194,220,210,257,219,213,199
+FF53,53,Lancaster County Public Schools,80,85,77,62,88,71,79,95,90,87,100,88
+FF54,54,Richmond County Public Schools,98,94,101,125,105,104,97,100,96,101,98,80
+FF55,55,Staunton City Public Schools,223,182,197,225,187,221,225,209,169,194,196,196
+FF56,56,Waynesboro City Public Schools,240,237,257,265,252,234,225,207,245,203,220,169
+FF57,57,Fairfax County Public Schools,"13,652","13,472","13,952","14,662","14,312","14,284","14,146","14,121","14,795","14,735","15,404","14,253"
+FF58,58,Fairfax City Public Schools,"13,652","13,472","13,952","14,662","14,312","14,284","14,146","14,121","14,795","14,735","15,404","14,253"
+FF59,59,Harrisonburg City Public Schools,473,468,458,492,471,475,430,459,477,442,421,458
+FF60,60,Loudoun County Public Schools,"5,899","6,012","6,167","6,411","6,510","6,321","6,322","6,413","6,374","6,418","5,993","5,832"
+FF61,61,Lynchburg City Public Schools,667,631,628,657,639,600,615,607,660,628,559,586
+FF62,62,Richmond City Public Schools,"2,104","2,006","2,168","2,106","2,023","1,716","1,724","1,634","1,825","1,460","1,308","1,233"
+FF63,63,Petersburg City Public Schools,365,352,343,313,325,259,224,240,255,281,262,249
+FF64,64,Williamsburg-James City County Public Schools,865,809,830,868,884,860,879,909,936,"1,043",963,898
+FF65,65,Buena Vista City Public Schools,57,60,69,64,60,63,81,79,80,60,111,59
+FF66,66,Lexington City Public Schools,93,46,58,56,9,62,72,68,100,200,25,200
+FF67,67,Rockbridge County Public Schools,172,184,191,217,232,194,208,218,259,217,260,231
+FF68,68,Salem City Public Schools,276,247,324,275,303,305,309,310,349,321,320,302
+FF69,69,Albemarle County Public Schools,"1,023","1,001","1,122","1,084","1,076",948,"1,019","1,010","1,108","1,102","1,064","1,087"
+FF70,70,Rockingham County Public Schools,818,851,863,829,865,905,870,885,902,977,918,889
+FF71,71,Virginia Beach City Public Schools,"5,065","5,151","5,257","5,255","5,285","5,403","5,309","5,263","5,507","5,275","5,075","5,201"
+FF72,72,Roanoke County Public Schools,928,"1,009","1,003","1,075","1,049","1,114","1,122","1,081","1,152","1,165","1,099","1,150"
+FF73,73,Bristol City Public Schools,162,174,165,169,165,165,171,182,153,169,166,159
+FF74,74,Giles County Public Schools,181,168,170,167,160,184,168,191,217,189,211,197
+FF75,75,Norton City Public Schools,52,65,63,56,59,55,61,84,60,49,56,57
+FF76,76,Lee County Public Schools,243,239,246,233,230,235,228,248,268,235,228,192
+FF77,77,Scott County Public Schools,281,272,267,249,255,268,260,259,256,251,273,269
+FF78,78,Washington County Public Schools,467,488,547,516,582,538,545,536,566,614,563,539
+FF79,79,Smyth County Public Schools,308,297,302,333,369,324,363,336,377,316,358,288
+FF80,80,Dickenson County Public Schools,176,136,170,166,158,173,158,159,149,149,136,148
+FF81,81,Wythe County Public Schools,283,276,298,297,319,326,324,301,341,309,314,342
+FF82,82,Wise County Public Schools,390,435,451,444,466,398,436,424,397,456,452,454
+FF83,83,Pulaski County Public Schools,269,280,293,339,325,285,325,314,324,302,331,354
+FF84,84,Radford City Public Schools,113,111,117,110,121,127,126,125,124,131,128,125
+FF85,85,Hanover County Public Schools,"1,206","1,242","1,272","1,289","1,330","1,417","1,403","1,469","1,484","1,458","1,479","1,475"
+FF86,86,Orange County Public Schools,395,327,376,370,404,360,356,379,401,385,343,355
+FF87,87,Page County Public Schools,205,219,266,250,220,276,265,284,266,266,273,265
+FF88,88,Frederick County Public Schools,921,958,"1,011","1,039","1,087","1,054","1,063","1,084","1,134","1,060","1,018","1,065"
+FF89,89,Clarke County Public Schools,134,119,132,144,147,170,143,158,165,170,183,155
+FF90,90,Fauquier County Public Schools,756,739,738,828,811,864,832,900,923,969,924,985
+FF91,91,Warren County Public Schools,387,349,388,411,451,411,408,424,442,421,396,447
+FF92,92,Bedford County Public Schools,686,684,702,690,739,758,722,752,837,771,757,801
+FF93,93,Stafford County Public Schools,"2,039","2,027","2,064","2,154","2,214","2,214","2,169","2,303","2,424","2,312","2,278","2,439"
+FF94,94,Winchester City Public Schools,323,314,319,350,342,330,316,316,367,324,319,303
+FF95,95,Manassas City Public Schools,589,584,619,598,599,614,562,536,632,556,585,450
+FF96,96,Prince William County Public Schools,"6,540","6,677","6,860","6,875","7,109","7,097","6,781","6,924","7,327","7,418","6,578","6,494"
+FF97,97,Manassas Park City Public Schools,265,262,306,276,289,279,265,286,319,283,262,269
+FF98,98,Fredericksburg City Public Schools,297,264,267,302,293,228,254,240,263,262,248,231
+FF99,99,Charlottesville City Public Schools,405,408,378,407,327,283,265,260,342,304,261,265
+FF100,100,Falls Church City Public Schools,186,192,182,238,212,200,186,215,212,199,211,204
+FF101,101,Goochland County Public Schools,158,183,171,209,200,206,208,193,213,214,214,197
+FF102,102,Danville City Public Schools,457,403,489,450,439,444,415,365,456,518,409,265
+FF103,103,Highland County Public Schools,17,14,8,13,18,9,16,20,21,10,15,12
+FF104,104,Bath County Public Schools,45,37,39,39,40,36,38,41,39,34,47,47
+FF105,105,Tazewell County Public Schools,419,402,417,439,438,453,461,472,477,485,391,389
+FF106,106,James City,384,377,395,411,432,394,438,405,518,429,407,428
+FF107,107,New Kent County Public Schools,233,227,243,238,280,271,258,224,261,244,222,260
+FF108,108,Charles City County Public Schools,39,44,45,35,43,53,62,37,53,68,41,44
+FF109,109,Arlington County Public Schools,"2,169","2,201","2,206","2,187","2,167","1,882","1,978","1,837","1,743","1,781","1,788","1,731"
+FF110,110,Alexandria City Public Schools,"1,410","1,407","1,309","1,269","1,291","1,126",993,915,"1,214","1,000",887,862
+FF111,111,Campbell County Public Schools,559,582,541,616,630,597,571,657,606,612,590,608
+FF112,112,Madison County Public Schools,129,135,115,127,144,136,150,130,147,153,117,125
+FF113,113,Louisa County Public Schools,344,359,381,397,374,375,376,367,365,367,351,385
+FF114,114,Mecklenburg County Public Schools,295,293,319,305,295,342,328,347,374,326,324,307
+FF115,115,Halifax County Public Schools,315,353,375,380,373,379,376,386,403,387,374,363
+FF116,116,Southampton County Public Schools,179,211,186,240,226,201,193,213,236,223,201,177
+FF117,117,Franklin City Public Schools,85,99,78,91,86,72,81,90,87,79,60,64
+FF118,118,Emporia,91,110,107,103,98,101,111,104,116,108,98,123
+FF119,119,Surry County Public Schools,45,54,58,46,54,50,58,60,62,53,71,63
+FF120,120,Suffolk City Public Schools,"1,096","1,061","1,107","1,127","1,127","1,123","1,019","1,079","1,304","1,035",919,815
+FF121,121,Isle of Wight County Public Schools,384,377,395,411,432,394,438,405,518,429,407,428
+FF122,122,Chesapeake City Public Schools,"2,776","2,887","2,972","2,936","3,095","3,168","3,136","3,234","3,590","3,413","3,006","3,032"
+FF123,123,Norfolk City Public Schools,"2,612","2,408","2,511","2,423","2,368","2,143","2,102","1,931","2,768","2,082","1,451","1,439"
+FF124,124,Portsmouth City Public Schools,"1,171","1,217","1,123","1,147","1,111",962,983,926,"1,125","1,010",882,886
+FF125,125,Hampton City Public Schools,"1,399","1,465","1,504","1,492","1,559","1,420","1,489","1,419","1,896","1,558","1,363","1,219"
+FF126,126,Poquoson City Public Schools,138,127,150,168,164,163,185,175,191,168,168,171
+FF127,127,Newport News City Public Schools,"2,244","2,192","2,215","2,235","2,266","2,063","1,977","1,935","2,177","2,020","1,845","1,827"
+FF128,128,Greensville County Public Schools,180,153,171,232,179,176,154,164,186,159,180,186
+FF129,129,Sussex County Public Schools,76,76,91,77,84,77,73,84,86,85,67,78
+FF130,130,Prince George County Public Schools,484,468,492,507,501,529,450,497,476,470,442,462
+FF131,131,Brunswick County Public Schools,114,127,138,132,108,111,123,130,124,144,113,111
+FF132,132,Roanoke City Public Schools,"1,129","1,076","1,080","1,187","1,102",973,924,979,"1,050",895,871,766

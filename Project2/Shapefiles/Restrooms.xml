@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<title>ROMO_RESTROOMS</title>
+<geoform>vector digital data</geoform>
+</citeinfo>
+</citation>
+<descript>
+<abstract>This point dataset was created to show the restroom locations within Rocky Mountain National Park. These data were extracted from the NPS FMSS. Edits were made by Glenn Hoffman at ROMO in November 2016 to incorporate the NPS Core Data Standard dated 08/10/2016.</abstract>
+<purpose>This point dataset was created to show the restroom locations within Rocky Mountain National Park.</purpose>
+</descript>
+<spdom>
+<bounding>
+<westbc>-105.863512</westbc>
+<eastbc>-105.502421</eastbc>
+<northbc>40.477425</northbc>
+<southbc>40.206359</southbc>
+</bounding>
+</spdom>
+<keywords>
+<theme>
+<themekt>None</themekt>
+<themekey>NPS</themekey>
+<themekey>National Park Service</themekey>
+<themekey>Rocky Mountain National Park</themekey>
+<themekey>ROMO</themekey>
+<themekey>RMNP</themekey>
+<themekey>Colorado</themekey>
+<themekey>Transportation</themekey>
+<themekey>Hiking</themekey>
+<themekey>Camping</themekey>
+</theme>
+</keywords>
+<accconst>None</accconst>
+<useconst>The National Park Service (NPS) shall not be held liable for improper or incorrect use of the data described and/or contained herein. These data and related graphics, if available, are not legal documents and are not intended to be used as such. These data are not of survey quality and not intended to be used for survey purposes. The information contained in these data is dynamic and may change over time. The data are not better than the original sources from which they were derived. It is the responsibility of the data user to use the data appropriately and consistent within the limitations of geospatial data in general and these data in particular. The related graphics are intended to aid the data user in acquiring relevant data; it is not appropriate to use the related graphics as data. The NPS gives no warranty, expressed or implied, as to the accuracy, reliability, or completeness of these data. It is strongly recommended that these data be directly acquired from an NPS source and not indirectly through other sources, which may have changed the data in some way. Although these data have been processed successfully on a computer system at the NPS, no warranty expressed or implied is made regarding the utility of the data on another system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. This disclaimer applies both to individual use of the data and aggregate use with other data.</useconst>
+<datacred>National Park Service, Rocky Mountain National Park, IMR</datacred>
+<native>Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.4.1.5686</native>
+</idinfo>
+<spdoinfo>
+<direct>Vector</direct>
+<ptvctinf>
+<sdtsterm>
+<sdtstype>Entity point</sdtstype>
+<ptvctcnt>80</ptvctcnt>
+</sdtsterm>
+</ptvctinf>
+</spdoinfo>
+<eainfo>
+<detailed>
+<enttyp>
+<enttypl>RestroomTest</enttypl>
+</enttyp>
+<attr>
+<attrlabl>FID</attrlabl>
+<attrdef>Internal feature number.</attrdef>
+<attrdefs>Esri</attrdefs>
+<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+</attr>
+<attr>
+<attrlabl>Shape</attrlabl>
+<attrdef>Feature geometry.</attrdef>
+<attrdefs>Esri</attrdefs>
+<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+</attr>
+<attr>
+<attrlabl>DESCRIPT_1</attrlabl>
+<attrdef>Indicates the code and common name for the restroom represented by the point.</attrdef>
+<attrdefs>ROMO 2016</attrdefs>
+<attrdomv>
+					<udom>Code and common name for the feature</udom>
+				</attrdomv>
+</attr>
+<attr>
+<attrlabl>POINAME</attrlabl>
+<attrdef>Indicates the name of the area the point feature is located within.</attrdef>
+<attrdefs>ROMO 2016</attrdefs>
+<attrdomv>
+					<udom>Name of the area</udom>
+				</attrdomv>
+</attr>
+<attr>
+<attrlabl>POITYPE</attrlabl>
+<attrdef>Indicates the type of feature represented by the point feature.
+
+Example:  Restroom</attrdef>
+<attrdefs>ROMO 2016</attrdefs>
+<attrdomv>
+					<udom>type of feature</udom>
+				</attrdomv>
+</attr>
+<attr>
+<attrlabl>NOTES</attrlabl>
+<attrdef>Notes or remarks regarding unusual or important aspects of the data.</attrdef>
+<attrdefs>NPS, EGISS, August 2016</attrdefs>
+<attrdomv>
+					<udom>Notes or remarks regarding unusual or important aspects of the data.</udom>
+				</attrdomv>
+</attr>
+<attr>
+<attrlabl>CREATEDATE</attrlabl>
+<attrdef>Date the feature was initially created.</attrdef>
+<attrdefs>NPS, EGISS, August 2016</attrdefs>
+<attrdomv>
+					<udom>Valid date (MM/DD/YYYY)</udom>
+				</attrdomv>
+</attr>
+<attr>
+<attrlabl>CREATEUSER</attrlabl>
+<attrdef>The person who initially created the feature.</attrdef>
+<attrdefs>NPS, EGISS, August 2016</attrdefs>
+<attrdomv>
+					<udom>Name format:  First Initial_Last name</udom>
+				</attrdomv>
+</attr>
+<attr>
+<attrlabl>EDITDATE</attrlabl>
+<attrdef>Date the feature was last edited.</attrdef>
+<attrdefs>NPS, EGISS, August 2016</attrdefs>
+<attrdomv>
+					<udom>Valid date (MM/DD/YYYY)</udom>
+				</attrdomv>
+</attr>
+<attr>
+<attrlabl>EDITUSER</attrlabl>
+<attrdef>The person who last edited the feature.</attrdef>
+<attrdefs>NPS, EGISS, August 2016</attrdefs>
+<attrdomv>
+					<udom>Name format:  First Initial_Last name</udom>
+				</attrdomv>
+<attrvai>
+					<attrva>Free text</attrva>
+				</attrvai>
+</attr>
+<attr>
+<attrlabl>INPLACES</attrlabl>
+<attrdef>Indicates if the feature is approved for sharing with the public.  A "Yes" value suggests sharing is acceptable.</attrdef>
+<attrdefs>ROMO 2016</attrdefs>
+<attrdomv>
+					<udom>Free text</udom>
+				</attrdomv>
+</attr>
+<attr>
+<attrlabl>GlobalID</attrlabl>
+<attrdef>A field of type UUID (Universal Unique Identifier) in which values are automatically assigned by the geodatabase when a row is created. The GlobalID field is necessary for maintaining object uniqueness across replicas. All feature classes and tables participating in one-way or two-way replication must contain the GlobalID field. This field is not editable and is automatically populated when it is added for existing data.</attrdef>
+<attrdefs>ESRI 2016</attrdefs>
+<attrdomv>
+					<udom>UUID (Universal Unique Identifier)</udom>
+				</attrdomv>
+</attr>
+<attr>
+<attrlabl>PUBLICDISP</attrlabl>
+</attr>
+<attr>
+<attrlabl>DATAACCESS</attrlabl>
+<attrdef>The extent of permitted access to the feature geometry and associated attributes.</attrdef>
+<attrdefs>NPS, EGISS, August 2016</attrdefs>
+<attrdomv>
+					<codesetd>
+						<codesetn>DOM_DATAACCESS_NPS2016</codesetn>
+						<codesets>NPS, EGISS, August 2016</codesets>
+					</codesetd>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>Unrestricted</edomv>
+						<edomvd>Data is approved for use in products intended for public distribution</edomvd>
+						<edomvds>NPS, EGISS, August 2016</edomvds>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>Internal NPS Only</edomv>
+						<edomvd>Data for use and distribution within the NPS only</edomvd>
+						<edomvds>NPS, EGISS, August 2016</edomvds>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>Secure Access Only</edomv>
+						<edomvd>Data approved for access by individuals with proper clearance only</edomvd>
+						<edomvds>NPS, EGISS, August 2016</edomvds>
+					</edom>
+				</attrdomv>
+</attr>
+<attr>
+<attrlabl>UNITCODE</attrlabl>
+<attrdef>NPS alphabetic code (4-characters) of the NPS organizational unit.
+
+Example: ROMO</attrdef>
+<attrdefs>NPS, EGISS, August 2016</attrdefs>
+<attrdomv>
+					<udom>Free text</udom>
+				</attrdomv>
+</attr>
+<attr>
+<attrlabl>UNITNAME</attrlabl>
+<attrdef>Full name of the NPS organizational unit.
+
+Example: Rocky Mountain National Park</attrdef>
+<attrdefs>NPS, EGISS, August 2016</attrdefs>
+<attrdomv>
+					<codesetd>
+						<codesetn>DOM_UNITNAME_RMNP_UNK</codesetn>
+						<codesets>ROMO 2016</codesets>
+					</codesetd>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>RMNP</edomv>
+						<edomvd>Rocky Mountain National Park</edomvd>
+						<edomvds>ROMO 2016</edomvds>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>Unknown</edomv>
+						<edomvd>Unknown</edomvd>
+						<edomvds>ROMO 2016</edomvds>
+					</edom>
+				</attrdomv>
+</attr>
+<attr>
+<attrlabl>REGIONCODE</attrlabl>
+<attrdef>The alpha code of the NPS Region.</attrdef>
+<attrdefs>NPS, EGISS, August 2016</attrdefs>
+<attrdomv>
+					<codesetd>
+						<codesetn>DOM_REGIONCODE_NPS2016</codesetn>
+						<codesets>NPS, EGISS, August 2016</codesets>
+					</codesetd>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>AKR</edomv>
+						<edomvd>Alaska Region</edomvd>
+						<edomvds>NPS, EGISS, August 2016</edomvds>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>IMR</edomv>
+						<edomvd>Intermountain Region</edomvd>
+						<edomvds>NPS, EGISS, August 2016</edomvds>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>MWR</edomv>
+						<edomvd>Midwest Region</edomvd>
+						<edomvds>NPS, EGISS, August 2016</edomvds>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>NCR</edomv>
+						<edomvd>National Capital Region</edomvd>
+						<edomvds>NPS, EGISS, August 2016</edomvds>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>NER</edomv>
+						<edomvd>Northeast Region</edomvd>
+						<edomvds>NPS, EGISS, August 2016</edomvds>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>PWR</edomv>
+						<edomvd>Pacific West Region</edomvd>
+						<edomvds>NPS, EGISS, August 2016</edomvds>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>SER</edomv>
+						<edomvd>Southeast Region</edomvd>
+						<edomvds>NPS, EGISS, August 2016</edomvds>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>WASO</edomv>
+						<edomvd>Washington Office</edomvd>
+						<edomvds>NPS, EGISS, August 2016</edomvds>
+					</edom>
+				</attrdomv>
+</attr>
+<attr>
+<attrlabl>MAPMETHOD</attrlabl>
+<attrdef>How the geospatial feature was derived.
+
+Examples: Unknown; Digitized; Autonomous GPS; Differential GPS; Surveyed / Geodetically Derived; Geocoded; COGO; Feature Extraction</attrdef>
+<attrdefs>NPS, EGISS, August 2016</attrdefs>
+<attrdomv>
+					<udom>How the geospatial feature was derived.</udom>
+				</attrdomv>
+</attr>
+<attr>
+<attrlabl>MAPSOURCE</attrlabl>
+<attrdef>Source from which the feature was derived.
+
+Example: Digitized from NAIP aerial photography; GPS Unit Make/Model: Trimble GeoXH</attrdef>
+<attrdefs>NPS, EGISS, August 2016</attrdefs>
+<attrdomv>
+					<udom>Source from which the feature was derived.</udom>
+				</attrdomv>
+</attr>
+<attr>
+<attrlabl>SOURCEDATE</attrlabl>
+<attrdef>The date of the source material.</attrdef>
+<attrdefs>NPS, EGISS, August 2016</attrdefs>
+<attrdomv>
+					<udom>Valid date (MM/DD/YYYY)</udom>
+				</attrdomv>
+</attr>
+<attr>
+<attrlabl>XYACCURACY</attrlabl>
+<attrdef>An estimate of the measurement error in the horizontal (ASPRS, 2014).</attrdef>
+<attrdefs>NPS, EGISS, August 2016</attrdefs>
+<attrdomv>
+					<codesetd>
+						<codesetn>DOM_XYACCURACY_NPS2016</codesetn>
+						<codesets>NPS, EGISS, August 2016</codesets>
+					</codesetd>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>&lt;5cm</edomv>
+						<edomvd>&lt;5cm accuracy</edomvd>
+						<edomvds>NPS, EGISS, August 2016</edomvds>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>&gt;=5cm and &lt;50cm</edomv>
+						<edomvd>&gt;=5cm and &lt;50cm accuracy</edomvd>
+						<edomvds>NPS, EGISS, August 2016</edomvds>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>&gt;=50cm and &lt;1m</edomv>
+						<edomvd>&gt;=50cm and &lt;1m accuracy</edomvd>
+						<edomvds>NPS, EGISS, August 2016</edomvds>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>&gt;=1m and &lt;5m</edomv>
+						<edomvd>&gt;=1m and &lt;5m accuracy</edomvd>
+						<edomvds>NPS, EGISS, August 2016</edomvds>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>&gt;=5m and &lt;14m</edomv>
+						<edomvd>&gt;=5m and &lt;14m accuracy</edomvd>
+						<edomvds>NPS, EGISS, August 2016</edomvds>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>&gt;=14m</edomv>
+						<edomvd>&gt;=14m accuracy</edomvd>
+						<edomvds>NPS, EGISS, August 2016</edomvds>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>Scaled</edomv>
+						<edomvd>Scaled</edomvd>
+						<edomvds>NPS, EGISS, August 2016</edomvds>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>Unknown</edomv>
+						<edomvd>Unknown accuracy</edomvd>
+						<edomvds>NPS, EGISS, August 2016</edomvds>
+					</edom>
+				</attrdomv>
+</attr>
+<attr>
+<attrlabl>GEOMETRYID</attrlabl>
+<attrdef>A unique identifier for the feature geometry controlled by the user. This identifier is the primary key of the dataset for data sharing purposes. 
+
+This should NOT be an automated Esri GlobalID attribute.</attrdef>
+<attrdefs>NPS, EGISS, August 2016</attrdefs>
+<attrdomv>
+					<udom>GUID (Globally Unique Identifier)</udom>
+				</attrdomv>
+</attr>
+<attr>
+<attrlabl>TYPE</attrlabl>
+<attrdef>Indicates the type of restroom present in a given location.</attrdef>
+<attrdefs>ROMO</attrdefs>
+<attrdomv>
+					<codesetd>
+						<codesetn>DOM_REST_TYPE</codesetn>
+						<codesets>ROMO 2016</codesets>
+					</codesetd>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>Vault</edomv>
+						<edomvd>Vault toilet</edomvd>
+						<edomvds>ROMO 2016</edomvds>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>Pit</edomv>
+						<edomvd>Pit toilet</edomvd>
+						<edomvds>ROMO 2016</edomvds>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>Solar</edomv>
+						<edomvd>Solar toilet</edomvd>
+						<edomvds>ROMO 2016</edomvds>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>Comfort Station</edomv>
+						<edomvd>Comfort Station</edomvd>
+						<edomvds>ROMO 2016</edomvds>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>Other</edomv>
+						<edomvd>Other (Explain in Notes)</edomvd>
+						<edomvds>ROMO 2016</edomvds>
+					</edom>
+				</attrdomv>
+</attr>
+</detailed>
+</eainfo>
+<metainfo>
+<metd>20170612</metd>
+<metc>
+<cntinfo>
+<!--no contact person or organization name available-->
+</cntinfo>
+</metc>
+<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+</metainfo>
+</metadata>
