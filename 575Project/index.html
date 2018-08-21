@@ -1,0 +1,43 @@
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width">
+		<link href="/data/favicon.ico" rel="icon" type="image/x-icon"/>
+		
+		<title>FEMA Disasters</title>
+
+		<!--put your external stylesheet links here-->
+		<link rel="stylesheet" href="css/style.css">
+		<!--[if IE<9]>
+			<link rel="stylesheet" href="css/style.ie.css">
+		<![endif]-->
+		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine">
+        <link rel="stylesheet" type="text/css" href="css/d3.slider.css" media="screen">
+	</head>
+
+	<body>
+
+		<div id="title">
+			<h1>Mapping FEMA Declared Disasters</h1>
+			<div id="descript">The Robert T. Stafford Disaster Relief and Emergency Assistance Act (Stafford Act) provides natural disaster federal assistance for state and local governments in carrying out their responsibilities to aid citizens. A presidential disaster declaration or an emergency declaration triggers financial and physical assistance through the Federal Emergency Management Agency (FEMA). The Act gives FEMA the responsibility for coordinating government-wide relief efforts. Here's a look at the number of county disaster declarations for each State.</div>
+		</div>
+
+		<div id="map"></div>
+		<div class="slider"></div>
+        
+		<div id="credit">© 2018, Kerry C. McAlister, Carlos Crespo, Ethan Reuse; Data Source: <a href="https://www.fema.gov/how-submit-foia-request">FEMA</a></div>
+		
+		
+		<script type="text/javascript" src="lib/d3-queue/d3-queue.js"></script>
+		<link href="https://fonts.googleapis.com/css?family=Archivo+Narrow:300,700" rel="stylesheet">
+		<script type="text/javascript" src="js/d3/d3.js"></script>
+		<script type="text/javascript" src="lib/topojson/topojson.js"></script>
+		<script type="text/javascript" src="lib/d3-geo-projection/d3-geo-projection.js"></script>
+		<script type="text/javascript" src="lib/simple-statistics.min.js"></script>
+		<script type="text/javascript" src="lib/jquery-3.3.1.js"></script>
+		<script type="text/javascript" src="js/main.js"></script>
+		<script type="text/javascript" src="lib/d3.slider.js"></script>
+	</body>
+</html>
